@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+😄 This is Weifeng Lin, 林炜丰 in Chinese.
+
+🏫 I am a M.S. student at the Department of Electronic Information, South China University of Technology.
+
+🏢 I am an intern of Deep Learning Algorithms at Alibaba Cloud Intelligence.
+
+📫 Email: eelinweifeng@mail.scut.edu.cn; wflin37@gmail.com
+
+🤔 I am currently looking for a PhD program in the field of computer vision. If you have any openings and are interested in recruiting, please feel free to contact me.👏
+
+<!--
+📖 homepage: https://www.lsl.zone/
+-->
 <!--
 **AFeng-x/Afeng-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
