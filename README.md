@@ -11,11 +11,9 @@
 🤔 I am currently looking for a PhD program in the field of computer vision. If you have any openings and are interested in recruiting, please feel free to contact me.👏
 
 <!--
-📖 homepage: https://www.lsl.zone/
+📖 homepage: https://www.xxx.xxx/
 -->
 <!--
-**AFeng-x/Afeng-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
