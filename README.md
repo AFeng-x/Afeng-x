@@ -8,10 +8,11 @@
 
 📫 Email: eelinweifeng@mail.scut.edu.cn; wflin37@gmail.com
 
-🤔 I am currently looking for a PhD program in the field of computer vision. If you have any openings and are interested in recruiting, please feel free to contact me.👏
+📖 homepage: https://afeng-x.github.io/
+
 
 <!--
-📖 homepage: https://www.xxx.xxx/
+🤔 I am currently looking for a PhD program in the field of computer vision. If you have any openings and are interested in recruiting, please feel free to contact me.👏
 -->
 <!--
 Here are some ideas to get you started:
