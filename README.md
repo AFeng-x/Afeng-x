@@ -4,7 +4,7 @@
 
 🏫 I am a M.S. student at the Department of Electronic Information, South China University of Technology.
 
-🏢 I am an intern of Deep Learning Algorithms at Alibaba Cloud Intelligence.
+🏢 I am now an intern of Deep Learning Algorithms at Shanghai AI Lab.
 
 📫 Email: eelinweifeng@mail.scut.edu.cn; wflin37@gmail.com
 
